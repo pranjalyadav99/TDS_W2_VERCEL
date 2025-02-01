@@ -1,4 +1,4 @@
-main.yml
+name: Test Action
 
 on:
   push:
